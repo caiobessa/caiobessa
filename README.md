@@ -6,6 +6,6 @@
 
 
 
-- 🔭 I’m currently working with Javascript, Java and Docker. 
+- 🔭 I’m currently working with Javascript and Java. 
 - 🌱 I’m currently learning Scala, Spark and Cloud. 
 - ⚡ Fun fact: I like inline skate. 
