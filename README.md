@@ -7,5 +7,5 @@
 
 
 - 🔭 I’m currently working with Javascript and Java. 
-- 🌱 I’m currently learning Scala, Spark and Cloud. 
+- 🌱 I’m currently learning cloud. 
 - ⚡ Fun fact: I like inline skate. 
