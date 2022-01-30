@@ -7,5 +7,4 @@
 
 
 - 🔭 I’m currently working with Javascript and Java. 
-- 🌱 I’m currently learning cloud. 
-- ⚡ Fun fact: I like inline skate. 
+- 🌱 I’m currently learning C# 
