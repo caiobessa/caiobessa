@@ -7,4 +7,4 @@
 
 
 - 🔭 I’m currently working with java. 
-- 🌱 I’m currently stududying for the spring certification 
+- 🌱 I’m currently studying for the spring certification 
