@@ -6,5 +6,8 @@
 
 
 
-- 🔭 I’m currently working with java. 
-- 🌱 I’m currently studying for the spring certification 
+- 🔭 I’m currently working with java in amazing team and application \o/. 
+- 🌱 I'm studying for the spring certification - wish me luck :)
+- I'm interested in cloud techlogies 
+- I'm addict to debug applications :) 
+- Fun fact about me: If you see someone skating in dublin, can be me :) 
