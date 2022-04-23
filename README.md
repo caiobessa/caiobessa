@@ -6,5 +6,5 @@
 
 
 
-- 🔭 I’m currently working with Javascript and Java. 
-- 🌱 I’m currently learning C# 
+- 🔭 I’m currently working with java. 
+- 🌱 I’m currently stududying for the spring certification 
